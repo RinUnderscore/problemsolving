@@ -1,2 +1,2 @@
 # problemsolving
-This is problemsolving. Both EquinoxElite and I are uploading our builds onto here!
+This is problemsolving. I am uploading my code all on here!
