@@ -1,0 +1,9 @@
+html{
+  background-color: aliceblue;
+  color: blue;
+  
+}
+
+button::float{
+  color:green;
+}
